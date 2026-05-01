@@ -2,103 +2,129 @@
 
 # 👨‍💻 Leonardo Mena Morante
 
-### 💻 Systems Engineering Student | Software Developer
+### 💻 Systems Engineering Student | Software Developer | Backend Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+software...;Learning+new+technologies+daily...;Focused+on+backend+and+system+design" />
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-58A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-Java%20%7C%20Node.js%20%7C%20SQL-3FB950?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Bolivia-A371F7?style=for-the-badge"/>
+</p>
 
 </div>
 
-<hr>
+---
 
-## 🚀 About Me
+## 👋 About Me
 
-> Systems Engineering student at Universidad Mayor de San Simón.  
-> I am characterized by being responsible, self-taught and highly interested in software development.  
-> During my academic formation, I have developed different practical projects using various technologies, strengthening my skills in programming, databases and agile methodologies.  
-> I am looking for an opportunity to apply my knowledge and continue growing professionally.
+I am a Bolivian software developer focused on building functional, scalable, and well-structured software systems with a strong emphasis on backend development and clean architecture.
 
-<hr>
+I am currently studying **Systems Engineering at UMSS**, where I have strengthened my skills in backend development, relational databases, software design, and full-stack system implementation.
 
-## 📫 Contact
+I enjoy turning ideas into real software solutions and continuously improving my technical and problem-solving abilities through academic and personal projects.
 
-<table>
-<tr>
-<td>
+My main interests include:
 
-📱 **Phone:** (+591) 69588990  
-📧 **Email:** menamoranteleonardo@gmail.com  
-📍 **Location:** Cochabamba, Bolivia  
+- 🏗️ Software architecture  
+- ⚙️ Backend development  
+- 🗄️ Relational databases  
+- 🤖 Automation and efficient systems  
 
-</td>
-</tr>
-</table>
+I describe myself as a **self-taught, analytical, and continuously improving developer**.
 
-<hr>
+---
 
-## 🎓 Education
-
-- 🎓 **Universidad Mayor de San Simón**  
-  *Bachelor in Systems Engineering* (2022 - Present)
-
-<hr>
-
-## 🌎 Languages
-
-- 🇪🇸 Spanish: Native  
-- 🇬🇧 English: Basic (reading comprehension)
-
-<hr>
-
-## 🛠️ Tech Skills
+## 🧰 Tech Stack
 
 ### 💻 Languages
-- Java  
-- Node.js  
-- JavaScript  
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+</p>
+
+---
 
 ### 🗄️ Databases
-- MySQL  
-- PostgreSQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
-### ⚙️ Tools & Methodologies
-- Git  
-- Scrum  
+---
 
-<hr>
+### 🧰 Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
-## 📂 Projects
+---
 
-### 🧾 Sales Management System
-- Java, MySQL, Swing, JDBC
+## 📌 Featured Projects
 
-### 📱 Reading App with AI Question Generation
-- Node.js, PostgreSQL, AI API, Dart
+- 🧾 **Sales Management System**  
+  Java · MySQL · Swing · JDBC  
 
-### 📋 Task Assignment and Management System
-- Java, MySQL, Swing
+- 💬 **Real-Time Chat Application**  
+  Node.js · Socket.IO · JavaScript  
 
-### 💬 Real-Time Chat Application
-- WebSockets / Socket.IO, Node.js, JavaScript, HTML, CSS
+- 📋 **Task Management System**  
+  Java · MySQL  
 
-### 🎮 Indie Game (in development)
-- Unity, C#, Sprite Design
+- 📱 **AI Reading App**  
+  Node.js · PostgreSQL · AI API  
 
-### 🧮 Financial Calculator
-- Java, Swing / JavaFX
+- 🎮 **2D Indie Video Game**  
+  Unity · C#  
 
-<hr>
+---
 
-## 📈 GitHub Stats
+## 🧠 Soft Skills
+
+- 🤝 Teamwork  
+- 🧩 Logical thinking  
+- 📚 Self-learning  
+- ⚡ Adaptability  
+- 🛠️ Problem-solving  
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 Spanish — Native  
+- 🇬🇧 English — Basic (technical reading)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- ⚙️ Backend development with Node.js  
+- 🏗️ Software architecture  
+- 🌐 Full-stack development  
+- 🧼 Clean code & best practices  
+
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight)
+🚀 Always learning. Always building.  
+✨ Thanks for visiting!
 
 </div>
-
-<hr>
-
-## ✨ About This Profile
-
-> This GitHub profile is a space where I share my learning, projects and growth as a developer.  
-> Always improving, always building 🚀
