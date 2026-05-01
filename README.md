@@ -103,13 +103,24 @@ I describe myself as a **self-taught, analytical, and continuously improving dev
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardo2014321&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo2014321&theme=tokyonight" />
-</p>
+  <img height="180em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonardo2014321&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leonardo2014321&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img width="85%"
+    src="https://streak-stats.demolab.com/?user=leonardo2014321&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
