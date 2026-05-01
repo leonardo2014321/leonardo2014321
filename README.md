@@ -6,7 +6,7 @@
 
 <!-- 🔗 ENLACES IMPORTANTES -->
 <p>
-  <a href="https://www.linkedin.com/in/leonardo-mena-morante-627279290/" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-mena-morante/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
