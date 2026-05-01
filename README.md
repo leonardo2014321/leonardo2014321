@@ -6,7 +6,7 @@
 
 <!-- 🔗 ENLACES IMPORTANTES -->
 <p>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-mena-morante-627279290/" target="_blank" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
@@ -14,9 +14,9 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=leonardomenamorante@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+software...;Learning+new+technologies+daily...;Focused+on+backend+and+system+design" />
